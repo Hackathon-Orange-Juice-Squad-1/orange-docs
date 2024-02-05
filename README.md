@@ -7,4 +7,6 @@
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Documenta%C3%A7%C3%A3o%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2FHackathon-Orange-Juice-Squad-1%2Forange-docs%2Fmain%2Fexport.json)
 
 
-**OBS**: (A plataforma onde a API está armazenada (render), infelizmente está passando por algumas instabilidades recentemente, fazendo com que a aplicação fique momentaneamente fora do ar, porém, é um tempo rápido 😅)
+**OBS¹**: Mais informações das rotas, como: seu funcionamento, corpo das requisições, parâmetros da URL, dentre outros, estão especificadas na parte de **Docs** de cada rota.
+
+**OBS²**: (A plataforma onde a API está armazenada (render), infelizmente está passando por algumas instabilidades recentemente, fazendo com que a aplicação fique momentaneamente fora do ar, porém, é um tempo rápido 😅)
